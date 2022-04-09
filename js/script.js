@@ -13,7 +13,6 @@ function increment(){
 
 
 function save(){
-    if()
     entry = count + " - "
     para.textContent += entry
     heading.textContent = 0
